@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'const.dart';
+
 // CUSTOM REUSABLE WIDGET
 class BottomButton extends StatelessWidget {
   BottomButton({required this.onTap, required this.buttonTitle});
